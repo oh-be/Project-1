@@ -7,7 +7,7 @@
 * Keith Moravec
 * Victoria Barbosa
 ---    
-### Topic: Is Climate Change Real and is correlated with atmospheric C02 concentration?
+### Topic: Is Climate Change Real and is it correlated with atmospheric C02 concentration?
 ---
 ### Data Sources
 
