@@ -7,9 +7,9 @@
 * Keith Moravec
 * Victoria Barbosa
 ---    
-> Topic: Is Climate Change Real?  Weather, Temperature, Pollution? over the course of last 100 by decade
-> APIs:  https://temperature.global/
-> https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
+### Topic: Is Climate Change Real?  Weather, Temperature, Pollution? over the course of last 100 by decade
+* APIs:  https://temperature.global/
+* https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
 > https://www.programmableweb.com/api/global-warming-carbon-dioxide-co2-atmosphere-concentration-rest-api-v10
 >   since 2010
 > UN Data for CO2 emmissions (file sent from Emily)
