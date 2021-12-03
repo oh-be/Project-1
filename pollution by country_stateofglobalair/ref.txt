@@ -1,0 +1,6 @@
+https://www.stateofglobalair.org/about
+Downloaded CSV files for air quality by country
+
+1) Ambient particulate matter pollution
+2) Ambient ozone pollution
+3) Household air pollution from solid fuels 
