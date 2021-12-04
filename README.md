@@ -40,12 +40,12 @@ NEED TO DO
 1. Is pollution (CO2) related with climate change (avg globale temparture)
     CO2 and Temperature are correlated (graph, data, r-squared correlation confirmed)
 2. How does CO2 directly impact temperature. 
-    1. Do we see change in temp vs time (done)
-        t-test on the slope from 1900 - 1950 vs 1950 - present (dates TBC)
-        is the rate of temperature vs time changing
+    1. Do we see change in temp vs time (done!)
+        1. t-test on the slope from 1900 - 1950 vs 1950 - present (dates TBC)
+        2. is the rate of temperature vs time changing
     2. Do we see change in CO2 vs time (done)
-        t-test on the slope from 1900 - 1950 vs 1950 - present (dates TBC)
-        is the rate of CO2 vs time changing
+        1. t-test on the slope from 1900 - 1950 vs 1950 - present (dates TBC)
+        2. is the rate of CO2 vs time changing
     3. Are they correlated? (done)
         linear regression with r-squared values (done)
 4. Temperature rise we are seeing in regions accross the globe
