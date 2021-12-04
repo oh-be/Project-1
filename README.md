@@ -1,3 +1,5 @@
+WE ARE DOING GREAT
+
 # Project 1 : Proposal Outline
 ---
 ### Group 2 Members
