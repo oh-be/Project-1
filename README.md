@@ -50,11 +50,11 @@ NEED TO DO
         linear regression with r-squared values (done)
 4. Temperature rise we are seeing in regions accross the globe
     1. Are there correlation to nataral disasters related to temp or CO2?  with linear regression with r-squared values
-        Wildfire (HYC for exercise)
-        Drought
-        Flood
-        Extreme temperature
-        Extreme weather
+        1. Wildfire (HYC for exercise)
+        2. Drought
+        3. Flood
+        4. Extreme temperature
+        5. Extreme weather
 6. What would the temperature be without human activity?
     1. (OUT OF SCOPE ??) Map out temperature with no increase in CO2.
 
