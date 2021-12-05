@@ -59,17 +59,19 @@ NEED TO DO
         7. Temp vs All Natural Disaster combined(HYC)
         8. CO2 vs All Natural Disaster combined (HYC)
     2. 12042021 HYC NOTE
-        3. in the 'hamilton' branch i worked on the temp v co2 v disaster graphs and basic stats
-        4. python filename: Temp_CO2_Disaster_v0-hyc12042021.ipynb
-        5. png line charts uploaded in "Project/png_data"
-         6. 8 charts
-        7. basic 'stats_summary" for the above charts in "Project-1/Drafts/output_data"
-         8. **TEAM QUESTION**: PLEASE REVIEW STATS SUMMARY.  What do you guys think it says?  Is there anything that looks strange?
-         9. I think the non-year related data is very interesting and inline with what we have been saying.
-         10. Is there anything to be concerned about with p-values for all analysis being ZERO???
-          11. What would the temperature be without human activity?
-          12. (OUT OF SCOPE ??) Map out temperature with no increase in CO2.
-          13. ![image](https://user-images.githubusercontent.com/92196810/144731206-d5ddb4c3-feea-4659-a9d7-5eeecf5210ad.png)
+        * in the 'hamilton' branch i worked on the temp v co2 v disaster graphs and basic stats
+        * python filename: Temp_CO2_Disaster_v0-hyc12042021.ipynb
+        * png line charts uploaded in "Project/png_data"
+         - 8 charts
+        *  basic 'stats_summary" for the above charts in "Project-1/Drafts/output_data"
+        * **TEAM QUESTION**: PLEASE REVIEW STATS SUMMARY.  What do you guys think it says?  Is there anything that looks strange?
+         - non-year related data is inline with what we have been seen.
+         - Is there anything to be concerned about with p-values for all analysis being ZERO???
+         - ![image](https://user-images.githubusercontent.com/92196810/144731206-d5ddb4c3-feea-4659-a9d7-5eeecf5210ad.png)
+
+
+11. What would the temperature be without human activity?
+12. (OUT OF SCOPE ??) Map out temperature with no increase in CO2.
 
 
 
