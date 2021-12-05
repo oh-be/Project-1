@@ -69,6 +69,8 @@ NEED TO DO
          10. Is there anything to be concerned about with p-values for all analysis being ZERO???
           11. What would the temperature be without human activity?
           12. (OUT OF SCOPE ??) Map out temperature with no increase in CO2.
+          13. ![image](https://user-images.githubusercontent.com/92196810/144731206-d5ddb4c3-feea-4659-a9d7-5eeecf5210ad.png)
+
 
 
 ### OUT OF SCOPE QUESTIONS  - We are focused on global data and are pulling out country questions
