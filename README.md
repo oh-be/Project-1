@@ -50,13 +50,26 @@ NEED TO DO
         linear regression with r-squared values (done)
 4. Temperature rise we are seeing in regions accross the globe
     1. Are there correlation to nataral disasters related to temp or CO2?  with linear regression with r-squared values
-        1. Wildfire (HYC for exercise)
-        2. Drought
-        3. Flood
-        4. Extreme temperature
-        5. Extreme weather
-6. What would the temperature be without human activity?
-    1. (OUT OF SCOPE ??) Map out temperature with no increase in CO2.
+        1. Wildfire vs Year (HYC)
+        2. Drought vs Year (HYC)
+        3. Flood vs Year (HYC)
+        4. Extreme temperature vs Year (HYC)
+        5. Extreme weather vs Year (HYC)
+        6. Temp vs CO2 (HYC)
+        7. Temp vs All Natural Disaster combined(HYC)
+        8. CO2 vs All Natural Disaster combined (HYC)
+    2. 12042021 HYC NOTE
+        3. in the 'hamilton' branch i worked on the temp v co2 v disaster graphs and basic stats
+        4. python filename: Temp_CO2_Disaster_v0-hyc12042021.ipynb
+        5. png line charts uploaded in "Project/png_data"
+         6. 8 charts
+        7. basic 'stats_summary" for the above charts in "Project-1/Drafts/output_data"
+         8. **TEAM QUESTION**: PLEASE REVIEW STATS SUMMARY.  What do you guys think it says?  Is there anything that looks strange?
+         9. I think the non-year related data is very interesting and inline with what we have been saying.
+         10. Is there anything to be concerned about with p-values for all analysis being ZERO???
+          11. What would the temperature be without human activity?
+          12. (OUT OF SCOPE ??) Map out temperature with no increase in CO2.
+          13. ![image](https://user-images.githubusercontent.com/92196810/144731206-d5ddb4c3-feea-4659-a9d7-5eeecf5210ad.png)
 
 
 
